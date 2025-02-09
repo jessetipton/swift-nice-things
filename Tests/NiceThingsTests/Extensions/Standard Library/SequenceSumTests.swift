@@ -5,23 +5,27 @@
 //  Created by Jesse Tipton on 5/6/22.
 //
 
-import XCTest
+import Testing
 @testable import NiceThings
 
-class SequenceSumTests: XCTestCase {
-    func testEmptySequence() {
-        XCTAssertEqual([].sum(), 0)
+struct SequenceSumTests {
+    @Test
+    func emptySequence() {
+        #expect([].sum() == 0)
     }
     
-    func testSequenceContainingOnlyZero() {
-        XCTAssertEqual([0].sum(), 0)
+    @Test
+    func sequenceContainingOnlyZero() {
+        #expect([0].sum() == 0)
     }
     
-    func testSequenceContainingOnlyOne() {
-        XCTAssertEqual([1].sum(), 1)
+    @Test
+    func sequenceContainingOnlyOne() {
+        #expect([1].sum() == 1)
     }
     
-    func testSequenceContainingManyNonZeroElements() {
-        XCTAssertEqual([1, 2, 3, 4, 5, 6].sum(), 21)
+    @Test
+    func sequenceContainingManyNonZeroElements() {
+        #expect([1, 2, 3, 4, 5, 6].sum() == 21)
     }
 }
