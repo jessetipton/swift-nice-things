@@ -4,4 +4,4 @@
 
 A collection of nice-to-have utilities for writing Swift programs on Apple platforms.
 
-Recommended viewing: [You Deserve Nice Things](https://www.youtube.com/watch?v=KhYfe4R2Es0) by @khanlou.
+Recommended viewing: [You Deserve Nice Things](https://www.youtube.com/watch?v=KhYfe4R2Es0) by [Soroush Khanlou](https://github.com/khanlou).
