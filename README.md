@@ -3,3 +3,5 @@
 [![CI](https://github.com/jessetipton/swift-nice-things/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jessetipton/swift-nice-things/actions/workflows/ci.yml)
 
 A collection of nice-to-have utilities for writing Swift programs on Apple platforms.
+
+Recommended viewing: [You Deserve Nice Things](https://www.youtube.com/watch?v=KhYfe4R2Es0) by @khanlou.
