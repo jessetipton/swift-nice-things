@@ -25,7 +25,7 @@ Then add `"NiceThings"` to the dependencies of any target that needs it.
 - **Swift macros** for reducing boilerplate
 - **Extensions** on standard library, concurrency, and SwiftUI types
 
-Browse the [`Sources/NiceThings`](Sources/NiceThings) directory for the full list.
+Browse the [documentation](https://swiftpackageindex.com/jessetipton/swift-nice-things/documentation/nicethings) for the full list.
 
 ## Recommended Viewing
 

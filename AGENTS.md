@@ -30,6 +30,15 @@ Macro declarations (the `public macro` signatures) live in `NiceThings`, while t
 - `@MemberwiseInit` — Attached member macro generating a public memberwise initializer
 - `#URL` — Freestanding expression macro for compile-time URL validation
 
+### Documentation
+
+DocC documentation is hosted on [Swift Package Index](https://swiftpackageindex.com/jessetipton/swift-nice-things/documentation/nicethings). The `.spi.yml` file at the repo root configures SPI to build docs for the `NiceThings` target.
+
+When adding or changing public API:
+
+- Add [DocC-formatted](https://www.swift.org/documentation/docc/) doc comments to all new public symbols
+- Update topic groups in `Sources/NiceThings/NiceThings.docc/NiceThings.md` so new symbols appear on the landing page
+
 ### Testing
 
 - Library tests use Swift Testing (`@Suite`, `@Test`)

@@ -6,7 +6,7 @@
 //
 
 extension Collection {
-    /// A Boolean value indicating whether the collection is empty.
+    /// A Boolean value indicating whether the collection is not empty.
     @inlinable
     public var isNotEmpty: Bool {
         return !isEmpty
