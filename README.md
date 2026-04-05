@@ -6,6 +6,9 @@
 
 A collection of nice-to-have utilities for writing Swift programs on Apple platforms.
 
+> [!WARNING]
+> This package is used in my personal projects and is not intended for general use. There will never be a 1.0.0 release because it will never commit to a stable API. APIs may be added, removed, or changed in breaking ways at any time.
+
 ## Installation
 
 Add the dependency to your `Package.swift`:
