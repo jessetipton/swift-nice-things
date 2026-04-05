@@ -1,12 +1,8 @@
 # Nice Things
 
 [![CI](https://github.com/jessetipton/swift-nice-things/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jessetipton/swift-nice-things/actions/workflows/ci.yml)
-![Swift 6](https://img.shields.io/badge/Swift-6-F05138?logo=swift&logoColor=white)
-![macOS 10.15+](https://img.shields.io/badge/macOS-10.15%2B-blue)
-![iOS 13+](https://img.shields.io/badge/iOS-13%2B-blue)
-![tvOS 13+](https://img.shields.io/badge/tvOS-13%2B-blue)
-![watchOS 6+](https://img.shields.io/badge/watchOS-6%2B-blue)
-![Mac Catalyst 13+](https://img.shields.io/badge/Mac_Catalyst-13%2B-blue)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fjessetipton%2Fswift-nice-things%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/jessetipton/swift-nice-things)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fjessetipton%2Fswift-nice-things%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/jessetipton/swift-nice-things)
 
 A collection of nice-to-have utilities for writing Swift programs on Apple platforms.
 
